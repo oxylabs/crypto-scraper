@@ -10,7 +10,7 @@ You can get Crypto website results by providing your own URLs to our service. We
 
 #### Python code example
 
-The example below illustrates how you can get HTML of [crypto.com](https://crypto.com/eaa) page.
+The example below illustrates how you can get HTML of a [crypto.com](https://crypto.com/eaa) page.
 
 ```python
 import requests
