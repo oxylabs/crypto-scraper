@@ -2,15 +2,15 @@
 
 [![Oxylabs promo code](https://user-images.githubusercontent.com/129506779/250792357-8289e25e-9c36-4dc0-a5e2-2706db797bb5.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
 
-Oxylabs’ [Crypto Scraper](https://oxylabs.io/products/scraper-api/web/crypto-scraper?utm_source=github&utm_medium=repositories&utm_campaign=product) is a data gathering solution allowing you to extract real-time information from an Crypto website effortlessly. This brief guide explains how an Crypto Scraper works and provides code examples to understand better how you can use it hassle-free.
+Oxylabs’ [Crypto Scraper](https://oxylabs.io/products/scraper-api/web/crypto-scraper?utm_source=github&utm_medium=repositories&utm_campaign=product) is a data gathering solution allowing you to extract real-time information from any Crypto website effortlessly. This brief guide explains how an Crypto Scraper works and provides code examples to understand better how you can use it hassle-free.
 
 ### How it works
 
-You can get Crypto results by providing your own URLs to our service. We can return the HTML for any Crypto page you like.
+You can get Crypto website results by providing your own URLs to our service. We can return the HTML for any page you like.
 
 #### Python code example
 
-The example below illustrates how you can get HTML of Crypto page.
+The example below illustrates how you can get HTML of [crypto.com[(https://crypto.com/eaa) page.
 
 ```python
 import requests
